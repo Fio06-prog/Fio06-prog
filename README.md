@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Fiorella :) 
+Business Informatics Student | Data & Business Analytics
 
-<!--
-**Fio06-prog/Fio06-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design KPI-driven dashboards and data models focused on operational performance, logistics optimization, and retail analytics.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects
+
+###  Logistics Operational KPI Dashboard (Power BI)
+Operational performance analysis using a KPI-driven framework to identify inefficiencies, delay drivers, and service risk patterns.
+
+- https://github.com/Fio06-prog/logistics-operational-kpi-dashboard
+
+
+###  Logistics Operational KPI Dashboard (Tableau)
+Event-level analysis evaluating delivery punctuality, Pickup vs Delivery efficiency, and operational improvement opportunities.
+
+- https://github.com/Fio06-prog/on-time-performance-dashboard-logistics
+
+
+###  Retail Sales Performance Dashboard (Power BI)
+Interactive 3-page dashboard analyzing revenue trends, customer segmentation, and product performance (2023).
+
+- https://github.com/Fio06-prog/retail-sales-performance-dashboard
+
+
+## Technical Stack
+
+- Power BI (Data Modeling, DAX, KPI Design)
+- SQL (Data querying & transformation)
+- Excel / Google Sheets
+- Business Process Analysis
+- Data Cleaning & Structuring
+
+
+## Career Focus
+
+- Data Analyst  
+- Business Analyst  
+- KPI & Performance Monitoring  
+- Process Optimization  
+
+
+## Academic Background
+
+Business Informatics  
+Universidad Paraguayo Alemana  
+Dual Academic Program
