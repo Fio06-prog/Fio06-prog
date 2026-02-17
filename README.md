@@ -23,6 +23,11 @@ Interactive 3-page dashboard analyzing revenue trends, customer segmentation, an
 
 - https://github.com/Fio06-prog/retail-sales-performance-dashboard
 
+### Retail Performance Dashboard (Tableau)
+Executive KPI dashboard analyzing revenue trends, profitability, and category-level performance.
+
+- https://github.com/Fio06-prog/retail-performance-tableau-dashboard
+
 
 ## Technical Stack
 
